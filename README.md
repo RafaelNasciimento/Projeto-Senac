@@ -2,7 +2,7 @@
   Projeto Curso Senac
 </h1>
 <p align="center">
-  <img src="src/assets/página1" width="100%" />
+  <img src="src/assets/página1.png" width="100%" />
 </p>
 
 ## 💻 Projeto
@@ -18,3 +18,4 @@ Projeto feito no curso de **Desenvolvimento de Sistemas** no Senac usando _HTML_
 
 Linkedin: 
 </br>
+Behance: 
